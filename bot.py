@@ -13,7 +13,8 @@ from vk_api.longpoll import VkLongPoll, VkEventType
 TOKEN = os.getenv("BOT_TOKEN")
 
 ADMIN_IDS = {
-    739351270
+    739351270,
+    604189481
 }
 
 START_SIZE = 10
